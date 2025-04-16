@@ -15,7 +15,7 @@
   - 고객 요구사항 분석 및 컨설팅 기반 설계
   - 연말정산, 제도 개편 등 정기 이슈 대응
 
-➡️ 자세히 보기: [`hr-system-summary/`](./hr-system-summary/)
+➡️ 자세히 보기: [`hr_system-summary/`](./hr-system-summary/)
 
 ---
 
